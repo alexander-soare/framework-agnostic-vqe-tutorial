@@ -25,19 +25,20 @@ As such, the following points best describe someone who'd benefit from this tuto
 
 Everything should take you 2 hours or more (depending on how many side quests you decide to go on).
 
-1. Clone into your local machine.
+1. Clone into your local machine. (skip to step 3 if you want to use Google Colab)
 
    ```
    git clone https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial.git
    ```
 
-2. Install requirements (maybe after you've set up and activated a virtual environment):
+2. Install requirements. (skip to step 3 if you want to use Google Colab)
 
    ```
    pip install -r requirements.txt
    ```
 
 3. Start with [the prereading](./01_Prereading.md).
+
 4. Then open up the **_02_Tutorial.ipynb_** notebook in your favorite notebook environment, or click here to open it in Google Colab
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
