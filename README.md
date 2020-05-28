@@ -44,7 +44,7 @@ Everything should take you 2 hours or more (depending on how many side quests yo
 
    _Note that you may have issues viewing it on Github due to an [ongoing issue](https://github.com/jupyter/notebook/issues/3035) with their notebook previewer._
 
-5. **Feel free to make use of this repo's Github Issues as a questions and discussions forum!**
+5. **Feel free to make use of this repo's [Github Issues](https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/issues) as a questions and discussions forum!**
 
 6. Share this with others by linking to the current page: https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial.
 
