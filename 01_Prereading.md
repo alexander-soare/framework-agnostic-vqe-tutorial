@@ -29,9 +29,9 @@ Let me just go through that again in a little more detail...
 
 Remember that the Hamiltonian is an operator which, among other properties, has a matrix representation with eigenvalues equivalent to the various energies of the quantum system (_if that caught you off guard, I'd recommend you brush up on the Hamiltonian and postulate 2 of quantum mechanics_).
 
-Keep in mind that the size of a Hamiltonian's matrix representation scales with an $n$ qubit system as $2^n$. It's pretty safe to say then that 50-100 qubit systems (like NISQ devices) are pretty much impossible to represent exactly on a classical computer.
+Keep in mind that the size of a Hamiltonian's matrix representation scales with an _n_ qubit system as _2<sup>n</sup>_. It's pretty safe to say then that 50-100 qubit systems (like NISQ devices) are pretty much impossible to represent exactly on a classical computer.
 
-_Pause... Do the back-of-the envelope calculation. A 50 qubit system has a Hamiltonian with $2^100$ entries. If we were to matrix-multiply with the corresponding $2^50$ long state vector that's $2^100$ multiplication operations (plus sums). An NVIDIA Tesla V100 GPU can get to around 10^14 floating point operations (FLOPS) per second. Plug that all into your favorite calculator and you get that it would take several hundreds of thousands of years. You can do a similar exercise to figure out how many of your hardrive it would take to actually represent the Hamiltonian. Unpause..._
+_Pause... Do the back-of-the envelope calculation. A 50 qubit system has a Hamiltonian with 2<sup>100</sup> entries. If we were to matrix-multiply with the corresponding 2<sup>50</sup> long state vector that's 2<sup>100</sup> multiplication operations (plus sums). An NVIDIA Tesla V100 GPU can get to around 10<sup>14</sup> floating point operations (FLOPS) per second. Plug that all into your favorite calculator and you get that it would take several hundreds of thousands of years. You can do a similar exercise to figure out how many of your hardrive it would take to actually represent the Hamiltonian. Unpause..._
 
 #### We want to get the ground state energy
 
@@ -47,7 +47,7 @@ Because we're actually doing quantum measurements to get the ground state energy
 
 #### We use a classical computer for computing the optimisation steps
 
-Every time we prepare a state and make a measurement, we get a datapoint: state $|\psi⟩$ has energy $E$. We can use classical optimisation algorithms to propose a next state to try based on the data we already have. Furthermore, that algorithm may be able to calculate some degree of certainty that we are near the real ground state.
+Every time we prepare a state and make a measurement, we get a datapoint: state _|Ψ⟩_ has energy _E_. We can use classical optimisation algorithms to propose a next state to try based on the data we already have. Furthermore, that algorithm may be able to calculate some degree of certainty that we are near the real ground state.
 
 You might find this diagram useful in summing up the process
 
