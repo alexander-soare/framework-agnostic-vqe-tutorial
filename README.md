@@ -43,7 +43,7 @@ Everything should take you 2 hours or more (depending on how many side quests yo
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
 
-   _Note that you may have issues viewing it on Github due to an [ongoing issue](https://github.com/jupyter/notebook/issues/3035) with their notebook previewer._
+   _Note that you may have issues viewing it on Github due to an [ongoing issue](https://github.com/jupyter/notebook/issues/3035) with their notebook previewer and incomplete support for markdown equations._
 
 5. **Feel free to make use of this repo's [Github Issues](https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/issues) as a questions and discussions forum!**
 
