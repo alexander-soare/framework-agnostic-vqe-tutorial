@@ -38,7 +38,15 @@ Everything should take you 2 hours or more (depending on how many side quests yo
    ```
 
 3. Start with [the prereading](./01_Prereading.md).
-4. Then open up the [tutorial notebook](./02_Tutorial.ipynb) in your favorite notebook environment.
+4. Then open up the **_02_Tutorial.ipynb_** notebook in your favorite notebook environment, or click here to open it in Google Colab
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+
+   _Note that you may have issues viewing it on Github due to an [ongoing issue](https://github.com/jupyter/notebook/issues/3035) with their notebook previewer._
+
+5. **Feel free to make use of this repo's Github Issues as a questions and discussions forum!**
+
+6. Share this with others by linking to the current page: https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial.
 
 ## Acknowledgements (also alternative resources for you)
 
