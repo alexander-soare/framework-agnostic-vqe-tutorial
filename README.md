@@ -62,8 +62,7 @@ I've acquired most of my knowledge from the following resources. This work is a 
 - Official qiskit tutorial: https://qiskit.org/textbook/ch-applications/vqe-molecules.html
 - VQE paper: [A variational eigenvalue solver on a quantum processer](https://arxiv.org/pdf/1304.3061.pdf)
 
-## Disclaimer
+Also, a very appreciative thankyou to the following people who have helped me
+review this tutorial:
 
-Although I have a Master's degree in experimental quantum computing, it turns out you can do a lot of good work in the lab without knowing much about quantum computing algorithms! I'm a beginner in quantum computing and this work, as well as being a tutorial, is a reflection of my own learning process.
-
-To be sure I'm sharing a valuable tutorial, I am currently pending on reviews from several members of the quantum computing ecosystem. Once they review this work and I make appropriate changes, I will update this read-me to reflect that.
+- [Davit Khachatryan](https://github.com/DavitKhach)
