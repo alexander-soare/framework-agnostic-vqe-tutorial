@@ -39,11 +39,15 @@ Everything should take you 2 hours or more (depending on how many side quests yo
 
 3. Start with [the prereading](./01_Prereading.md).
 
-4. Then open up the **_02_Tutorial.ipynb_** notebook in your favorite notebook environment, or click here to open it in Google Colab
+4. Then open up the **_02_Tutorial.ipynb_** notebook in your favorite environment, or:
+
+   (a) click here to open it in [Google Colab](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
 
-   _Note that you may have issues viewing it on Github due to an [ongoing issue](https://github.com/jupyter/notebook/issues/3035) with their notebook previewer and incomplete support for markdown equations._
+   (b) or [preview it on Jupyter nbviewer](https://nbviewer.jupyter.org/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+
+   _Note that the Github previewer lacks full markdown support for equations so I would recommend using one of the above methods instead._
 
 5. **Feel free to make use of this repo's [Github Issues](https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/issues) as a questions and discussions forum!**
 
