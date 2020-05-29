@@ -39,7 +39,7 @@ The ground state is the lowest energy state of the quantum system and is the sam
 
 #### A quantum computer evaluates the objective function in our search space
 
-Our "search space" is the space of all possible states of our quantum system, and the "objective function" is the energy associated with a given state. VQE makes use of a quantum system to actually measure the energy of a prepared state. Cool! So now we have a feasible way of actually computing an eigenvalue (**this is meant to be an Aha! moment by the way**).
+Our "search space" is some subspace of all possible states of our quantum system, and the "objective function" is the energy associated with a given state. VQE makes use of a quantum system to actually measure the energy of a prepared state. Cool! So now we have a feasible way of actually computing an eigenvalue (**this is meant to be an Aha! moment by the way**).
 
 #### We're actually getting an upper bound for the ground state energy
 
