@@ -27,7 +27,7 @@ Let me just go through that again in a little more detail...
 
 #### We have a quantum system with a known Hamiltonian
 
-The Hamiltonian is an operator which, among other properties, has a matrix representation with eigenvalues equivalent to the various energies of the quantum system (_if that caught you off guard, I'd recommend you brush up on the Hamiltonian and postulate 2 of quantum mechanics_).
+The Hamiltonian is an operator which, among other properties, has a matrix representation with eigenvalues equivalent to the various energies of the quantum system (_if that caught you off guard, I'd recommend you brush up on the [Hamiltonian](https://ocw.mit.edu/courses/nuclear-engineering/22-51-quantum-theory-of-radiation-interactions-fall-2012/lecture-notes/MIT22_51F12_Ch5.pdf)_).
 
 Keep in mind that the size of a Hamiltonian's matrix representation scales with an _n_ qubit system as _2<sup>n</sup>_. It's pretty safe to say then that 50-100 qubit systems (like NISQ devices) are pretty much impossible to represent exactly on a classical computer.
 
@@ -43,7 +43,7 @@ Our "search space" is some subspace of all possible states of our quantum system
 
 #### We're getting an upper bound for the ground state energy
 
-Because we're doing the actual quantum measurements to get the ground state energy, we can only expect to get measurement outcomes at least as high as the ground state energy because... well that's what "ground state" is by defintion. And if we're working with a practical problem which is analytically intractable, we'll never truly know it even if we do get to the exact ground state. So that's why it's called an "upper bound".
+Because we're doing quantum measurements to get the ground state energy, we can only expect to get measurement outcomes at least as high as the ground state energy because... well that's what "ground state" is by defintion. And if we're working with a practical problem which is analytically intractable, we'll never truly know it even if we do get to the exact ground state. So that's why it's called an "upper bound".
 
 #### We use a classical computer for performing the optimisation steps
 
