@@ -65,4 +65,5 @@ I've acquired most of my knowledge from the following resources. This work is a 
 Also, a very appreciative thankyou to the following people who have helped me
 review this tutorial:
 
+- [Michał Stęchły](https://www.mustythoughts.com/about)
 - [Davit Khachatryan](https://github.com/DavitKhach)
