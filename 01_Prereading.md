@@ -57,8 +57,8 @@ Now head on to the tutorial notebook to dive into a VQE example! I would recomme
 avoiding using Github's notebook viewer as it lacks full support for markdown equations.
 You may:
 
-1. Edit and run it on [Google Colab](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+1. Edit and run it on [Google Colab](https://colab.research.google.com/github/alexander-soare/framework-agnostic-vqe-tutorial/blob/master/02_Tutorial.ipynb)
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/framework-agnostic-vqe-tutorial/blob/master/02_Tutorial.ipynb)
 
-2. [Preview it on Jupyter nbviewer](https://nbviewer.jupyter.org/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+2. [Preview it on Jupyter nbviewer](https://nbviewer.jupyter.org/github/alexander-soare/framework-agnostic-vqe-tutorial/blob/master/02_Tutorial.ipynb)

@@ -28,7 +28,7 @@ Everything should take you 2 hours or more (depending on how many side quests yo
 1. Clone into your local machine. (skip to step 3 if you want to use Google Colab)
 
    ```
-   git clone https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial.git
+   git clone https://github.com/alexander-soare/framework-agnostic-vqe-tutorial.git
    ```
 
 2. Install requirements. (skip to step 3 if you want to use Google Colab)
@@ -41,17 +41,17 @@ Everything should take you 2 hours or more (depending on how many side quests yo
 
 4. Then open up the **_02_Tutorial.ipynb_** notebook in your favorite environment, or:
 
-   (a) click here to open it in [Google Colab](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+   (a) click here to open it in [Google Colab](https://colab.research.google.com/github/alexander-soare/framework-agnostic-vqe-tutorial/blob/master/02_Tutorial.ipynb)
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexander-soare/framework-agnostic-vqe-tutorial/blob/master/02_Tutorial.ipynb)
 
-   (b) or [preview it on Jupyter nbviewer](https://nbviewer.jupyter.org/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb)
+   (b) or [preview it on Jupyter nbviewer](https://nbviewer.jupyter.org/github/alexander-soare/framework-agnostic-vqe-tutorial/blob/master/02_Tutorial.ipynb)
 
    _Note that the Github previewer lacks full markdown support for equations so I would recommend using one of the above methods instead._
 
-5. **Feel free to make use of this repo's [Github Issues](https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/issues) as a questions and discussions forum!**
+5. **Feel free to make use of this repo's [Github Issues](https://github.com/alexander-soare/framework-agnostic-vqe-tutorial/issues) as a questions and discussions forum!**
 
-6. Share this with others by linking to the current page: https://github.com/alexander-soare/A-Framework-Agnostic-VQE-Tutorial.
+6. Share this with others by linking to the current page: https://github.com/alexander-soare/framework-agnostic-vqe-tutorial.
 
 ## Acknowledgements (also alternative resources for you)
 
